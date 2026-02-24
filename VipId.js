@@ -1,0 +1,78 @@
+[
+  {
+    "id": "120363400297473298@newsletter",
+    "desc": "Permanen"
+ },
+{
+    "id": "120363423419836419@newsletter",
+    "desc": "Permanen"
+ },
+ {
+    "id": "120363423175626848@newsletter",
+    "desc": "Permanen"
+ },
+  {
+    "id": "120363403870324179@newsletter",
+    "desc": "Permanen"
+ },
+  {
+    "id": "120363423908238059@newsletter",
+    "desc": "Kyuu"
+ },
+  {
+    "id": "120363408028814194@newsletter",
+    "desc": "Permanen"
+ },
+  {
+    "id": "120363400363337568@newsletter",
+    "desc": "Permanen"
+ },
+  {
+    "id": "120363425436987470@newsletter",
+    "desc": "Kyy"
+ },
+ {
+    "id": "120363415774894980@newsletter",
+    "desc": "permanen"
+ },
+  {
+    "id": "120363407739645637@newsletter",
+    "desc": "Skyy cloud"
+ },
+ {
+    "id": "120363422571077531@newsletter",
+    "desc": "Skyzopedia"
+ },
+  {
+    "id": "120363408618747226@newsletter",
+    "desc": "Permanen"
+ },
+ {
+    "id": "120363425833653978@newsletter",
+    "desc": "permanen"
+ },
+ {
+    "id": "120363400066809464@newsletter",
+    "desc": "permanen"
+  },
+  {
+    "id": "120363422684021546@newsletter",
+    "desc": "Permanen"
+  },
+  {
+    "id": "120363421533885587@newsletter",
+    "desc": "Permanen"
+  },  
+ {
+    "id": "120363404181326900@newsletter",
+    "desc": "permanen"
+  },  
+  {
+    "id": "120363363009408737@newsletter",
+    "desc": "Permanent"
+  }, 
+  {
+    "id": "120363404436969117@newsletter",
+    "desc": "Permanen"
+  }
+]
