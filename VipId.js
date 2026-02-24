@@ -1,78 +1,51 @@
 [
-  {
-    "id": "120363400297473298@newsletter",
-    "desc": "Permanen"
- },
-{
-    "id": "120363423419836419@newsletter",
-    "desc": "Permanen"
- },
- {
-    "id": "120363423175626848@newsletter",
-    "desc": "Permanen"
- },
-  {
-    "id": "120363403870324179@newsletter",
-    "desc": "Permanen"
- },
-  {
-    "id": "120363423908238059@newsletter",
-    "desc": "Kyuu"
- },
-  {
-    "id": "120363408028814194@newsletter",
-    "desc": "Permanen"
- },
-  {
-    "id": "120363400363337568@newsletter",
-    "desc": "Permanen"
- },
-  {
-    "id": "120363425436987470@newsletter",
-    "desc": "Kyy"
- },
- {
-    "id": "120363415774894980@newsletter",
-    "desc": "permanen"
- },
-  {
-    "id": "120363407739645637@newsletter",
-    "desc": "Skyy cloud"
- },
- {
-    "id": "120363422571077531@newsletter",
-    "desc": "Skyzopedia"
- },
-  {
-    "id": "120363408618747226@newsletter",
-    "desc": "Permanen"
- },
- {
-    "id": "120363425833653978@newsletter",
-    "desc": "permanen"
- },
- {
-    "id": "120363400066809464@newsletter",
-    "desc": "permanen"
-  },
-  {
-    "id": "120363422684021546@newsletter",
-    "desc": "Permanen"
-  },
-  {
-    "id": "120363421533885587@newsletter",
-    "desc": "Permanen"
-  },  
- {
-    "id": "120363404181326900@newsletter",
-    "desc": "permanen"
-  },  
-  {
-    "id": "120363363009408737@newsletter",
-    "desc": "Permanent"
-  }, 
-  {
-    "id": "120363404436969117@newsletter",
-    "desc": "Permanen"
-  }
+  { "id": "120363423419836419@newsletter", "desc": "VIP" },
+  { "id": "120363404726038027@newsletter", "desc": "VIP" },
+  { "id": "120363422160785189@newsletter", "desc": "VIP" },
+  { "id": "120363425135639322@newsletter", "desc": "VIP" },
+  { "id": "120363406877423736@newsletter", "desc": "VIP" },
+  { "id": "120363404827492322@newsletter", "desc": "VIP" },
+  { "id": "120363422543574815@newsletter", "desc": "VIP" },
+  { "id": "120363422491624242@newsletter", "desc": "VIP" },
+  { "id": "120363425200944697@newsletter", "desc": "VIP" },
+  { "id": "120363407202008233@newsletter", "desc": "VIP" },
+  { "id": "120363424756101619@newsletter", "desc": "VIP" },
+  { "id": "120363406792949491@newsletter", "desc": "VIP" },
+  { "id": "120363405794164863@newsletter", "desc": "VIP" },
+  { "id": "120363423636660184@newsletter", "desc": "VIP" },
+  { "id": "120363424580569142@newsletter", "desc": "VIP" },
+  { "id": "120363404475827579@newsletter", "desc": "VIP" },
+  { "id": "120363403820324166@newsletter", "desc": "VIP" },
+  { "id": "120363421959666759@newsletter", "desc": "VIP" },
+  { "id": "120363400666769504@newsletter", "desc": "VIP" },
+  { "id": "120363425235480218@newsletter", "desc": "VIP" },
+  { "id": "120363425129236184@newsletter", "desc": "VIP" },
+  { "id": "120363424011451865@newsletter", "desc": "VIP" },
+  { "id": "120363416857498869@newsletter", "desc": "VIP" },
+  { "id": "120363424726351666@newsletter", "desc": "VIP" },
+  { "id": "120363407147068707@newsletter", "desc": "VIP" },
+  { "id": "120363422051033795@newsletter", "desc": "VIP" },
+  { "id": "120363407497391781@newsletter", "desc": "VIP" },
+  { "id": "120363422702201754@newsletter", "desc": "VIP" },
+  { "id": "120363424826447197@newsletter", "desc": "VIP" },
+  { "id": "120363422684021546@newsletter", "desc": "VIP" },
+  { "id": "120363406023481107@newsletter", "desc": "VIP" },
+  { "id": "120363424342660288@newsletter", "desc": "VIP" },
+  { "id": "120363424626232191@newsletter", "desc": "VIP" },
+  { "id": "120363424778607220@newsletter", "desc": "VIP" },
+  { "id": "120363406984657484@newsletter", "desc": "VIP" },
+  { "id": "120363406269778269@newsletter", "desc": "VIP" },
+  { "id": "120363423753383816@newsletter", "desc": "VIP" },
+  { "id": "120363406481950755@newsletter", "desc": "VIP" },
+  { "id": "120363404407997984@newsletter", "desc": "VIP" },
+  { "id": "120363424401773458@newsletter", "desc": "VIP" },
+  { "id": "120363422588771654@newsletter", "desc": "VIP" },
+  { "id": "120363425772699888@newsletter", "desc": "VIP" },
+  { "id": "120363422515191713@newsletter", "desc": "VIP" },
+  { "id": "120363424234572652@newsletter", "desc": "VIP" },
+  { "id": "120363393891813501@newsletter", "desc": "VIP" },
+  { "id": "120363418053553618@newsletter", "desc": "VIP" },
+  { "id": "120363417813081520@newsletter", "desc": "VIP" },
+  { "id": "120363422601038865@newsletter", "desc": "VIP" },
+  { "id": "120363424291624448@newsletter", "desc": "VIP" }
 ]
